@@ -15,3 +15,4 @@ try:
         p=x**2-y*2-2
     print(p)
 except ValueError: print("sosi")
+print(2+2)
